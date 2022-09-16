@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Bootcamp_Linux_Experience.Models
+namespace Bootcamp_Linux_Experience.Models.PessoaCopia
 {
   public class Pessoa
   {
