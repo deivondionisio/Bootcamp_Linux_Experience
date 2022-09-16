@@ -13,7 +13,8 @@ namespace Bootcamp_Linux_Experience.Models
     public void Apresentar()
 
     {
-      Console.WriteLine($"Olá, seu nome é {Nome}, e tenho {Idade} anos");
+      //Console.WriteLine($"Olá, seu nome é, {Nome} e tenho {Idade} anos");
+      Console.WriteLine($"Olá, seu nome é {Nome} \n e tenho {Idade} anos");
     }
   }
 }
