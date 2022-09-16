@@ -1,2 +1,1 @@
-# Bootcamp_Linux_Experience
- O Linux Experience possui apenas 41 horas, que você pode finalizar em poucos dias, de atividades 100% voltadas para os desafios do mercado de trabalho.   Nesse programa você vai aprender a principal vocação do sistema operacional Linux, seus comandos fundamentais e como gerenciar serviços de um servidor.
+O Pottencial .NET Developer é o bootcamp para profissionais que buscam aperfeiçoar suas habilidades em desenvolvimento back-end com .NET e C#, e querem ganhar mais confiança no desenvolvimento de projetos. Uma trilha completa em .NET, Banco de Dados SQL e projetos práticos que te preparam para atuar em grandes cases de mercado. 
