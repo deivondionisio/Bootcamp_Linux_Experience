@@ -1,0 +1,15 @@
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipo De Dados/DateTimne/bin/Debug/net6.0/DateTimne
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipo De Dados/DateTimne/bin/Debug/net6.0/DateTimne.deps.json
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipo De Dados/DateTimne/bin/Debug/net6.0/DateTimne.runtimeconfig.json
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipo De Dados/DateTimne/bin/Debug/net6.0/DateTimne.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipo De Dados/DateTimne/bin/Debug/net6.0/ref/DateTimne.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipo De Dados/DateTimne/bin/Debug/net6.0/DateTimne.pdb
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipo De Dados/DateTimne/obj/Debug/net6.0/DateTimne.csproj.AssemblyReference.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipo De Dados/DateTimne/obj/Debug/net6.0/DateTimne.GeneratedMSBuildEditorConfig.editorconfig
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipo De Dados/DateTimne/obj/Debug/net6.0/DateTimne.AssemblyInfoInputs.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipo De Dados/DateTimne/obj/Debug/net6.0/DateTimne.AssemblyInfo.cs
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipo De Dados/DateTimne/obj/Debug/net6.0/DateTimne.csproj.CoreCompileInputs.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipo De Dados/DateTimne/obj/Debug/net6.0/DateTimne.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipo De Dados/DateTimne/obj/Debug/net6.0/ref/DateTimne.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipo De Dados/DateTimne/obj/Debug/net6.0/DateTimne.pdb
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipo De Dados/DateTimne/obj/Debug/net6.0/DateTimne.genruntimeconfig.cache
