@@ -1,0 +1,15 @@
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/DiferençaConvertParse/bin/Debug/net6.0/DiferençaConvertParse
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/DiferençaConvertParse/bin/Debug/net6.0/DiferençaConvertParse.deps.json
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/DiferençaConvertParse/bin/Debug/net6.0/DiferençaConvertParse.runtimeconfig.json
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/DiferençaConvertParse/bin/Debug/net6.0/DiferençaConvertParse.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/DiferençaConvertParse/bin/Debug/net6.0/ref/DiferençaConvertParse.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/DiferençaConvertParse/bin/Debug/net6.0/DiferençaConvertParse.pdb
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/DiferençaConvertParse/obj/Debug/net6.0/DiferençaConvertParse.csproj.AssemblyReference.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/DiferençaConvertParse/obj/Debug/net6.0/DiferençaConvertParse.GeneratedMSBuildEditorConfig.editorconfig
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/DiferençaConvertParse/obj/Debug/net6.0/DiferençaConvertParse.AssemblyInfoInputs.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/DiferençaConvertParse/obj/Debug/net6.0/DiferençaConvertParse.AssemblyInfo.cs
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/DiferençaConvertParse/obj/Debug/net6.0/DiferençaConvertParse.csproj.CoreCompileInputs.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/DiferençaConvertParse/obj/Debug/net6.0/DiferençaConvertParse.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/DiferençaConvertParse/obj/Debug/net6.0/ref/DiferençaConvertParse.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/DiferençaConvertParse/obj/Debug/net6.0/DiferençaConvertParse.pdb
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/DiferençaConvertParse/obj/Debug/net6.0/DiferençaConvertParse.genruntimeconfig.cache
