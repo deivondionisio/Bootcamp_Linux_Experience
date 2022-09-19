@@ -1,0 +1,15 @@
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/IntroducaoOperadorAtribuicao/bin/Debug/net6.0/IntroducaoOperadorAtribuicao
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/IntroducaoOperadorAtribuicao/bin/Debug/net6.0/IntroducaoOperadorAtribuicao.deps.json
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/IntroducaoOperadorAtribuicao/bin/Debug/net6.0/IntroducaoOperadorAtribuicao.runtimeconfig.json
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/IntroducaoOperadorAtribuicao/bin/Debug/net6.0/IntroducaoOperadorAtribuicao.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/IntroducaoOperadorAtribuicao/bin/Debug/net6.0/ref/IntroducaoOperadorAtribuicao.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/IntroducaoOperadorAtribuicao/bin/Debug/net6.0/IntroducaoOperadorAtribuicao.pdb
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/IntroducaoOperadorAtribuicao/obj/Debug/net6.0/IntroducaoOperadorAtribuicao.csproj.AssemblyReference.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/IntroducaoOperadorAtribuicao/obj/Debug/net6.0/IntroducaoOperadorAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/IntroducaoOperadorAtribuicao/obj/Debug/net6.0/IntroducaoOperadorAtribuicao.AssemblyInfoInputs.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/IntroducaoOperadorAtribuicao/obj/Debug/net6.0/IntroducaoOperadorAtribuicao.AssemblyInfo.cs
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/IntroducaoOperadorAtribuicao/obj/Debug/net6.0/IntroducaoOperadorAtribuicao.csproj.CoreCompileInputs.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/IntroducaoOperadorAtribuicao/obj/Debug/net6.0/IntroducaoOperadorAtribuicao.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/IntroducaoOperadorAtribuicao/obj/Debug/net6.0/ref/IntroducaoOperadorAtribuicao.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/IntroducaoOperadorAtribuicao/obj/Debug/net6.0/IntroducaoOperadorAtribuicao.pdb
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/IntroducaoOperadorAtribuicao/obj/Debug/net6.0/IntroducaoOperadorAtribuicao.genruntimeconfig.cache
