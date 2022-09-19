@@ -1,0 +1,15 @@
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConvertendoTiposVariaveis/bin/Debug/net6.0/ConvertendoTiposVariaveis
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConvertendoTiposVariaveis/bin/Debug/net6.0/ConvertendoTiposVariaveis.deps.json
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConvertendoTiposVariaveis/bin/Debug/net6.0/ConvertendoTiposVariaveis.runtimeconfig.json
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConvertendoTiposVariaveis/bin/Debug/net6.0/ConvertendoTiposVariaveis.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConvertendoTiposVariaveis/bin/Debug/net6.0/ref/ConvertendoTiposVariaveis.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConvertendoTiposVariaveis/bin/Debug/net6.0/ConvertendoTiposVariaveis.pdb
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConvertendoTiposVariaveis/obj/Debug/net6.0/ConvertendoTiposVariaveis.csproj.AssemblyReference.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConvertendoTiposVariaveis/obj/Debug/net6.0/ConvertendoTiposVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConvertendoTiposVariaveis/obj/Debug/net6.0/ConvertendoTiposVariaveis.AssemblyInfoInputs.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConvertendoTiposVariaveis/obj/Debug/net6.0/ConvertendoTiposVariaveis.AssemblyInfo.cs
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConvertendoTiposVariaveis/obj/Debug/net6.0/ConvertendoTiposVariaveis.csproj.CoreCompileInputs.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConvertendoTiposVariaveis/obj/Debug/net6.0/ConvertendoTiposVariaveis.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConvertendoTiposVariaveis/obj/Debug/net6.0/ref/ConvertendoTiposVariaveis.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConvertendoTiposVariaveis/obj/Debug/net6.0/ConvertendoTiposVariaveis.pdb
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConvertendoTiposVariaveis/obj/Debug/net6.0/ConvertendoTiposVariaveis.genruntimeconfig.cache
