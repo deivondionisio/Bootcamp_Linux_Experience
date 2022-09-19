@@ -1,0 +1,15 @@
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/CombinandoOperadores/bin/Debug/net6.0/CombinandoOperadores
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/CombinandoOperadores/bin/Debug/net6.0/CombinandoOperadores.deps.json
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/CombinandoOperadores/bin/Debug/net6.0/CombinandoOperadores.runtimeconfig.json
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/CombinandoOperadores/bin/Debug/net6.0/CombinandoOperadores.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/CombinandoOperadores/bin/Debug/net6.0/ref/CombinandoOperadores.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/CombinandoOperadores/bin/Debug/net6.0/CombinandoOperadores.pdb
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/CombinandoOperadores/obj/Debug/net6.0/CombinandoOperadores.csproj.AssemblyReference.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/CombinandoOperadores/obj/Debug/net6.0/CombinandoOperadores.GeneratedMSBuildEditorConfig.editorconfig
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/CombinandoOperadores/obj/Debug/net6.0/CombinandoOperadores.AssemblyInfoInputs.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/CombinandoOperadores/obj/Debug/net6.0/CombinandoOperadores.AssemblyInfo.cs
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/CombinandoOperadores/obj/Debug/net6.0/CombinandoOperadores.csproj.CoreCompileInputs.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/CombinandoOperadores/obj/Debug/net6.0/CombinandoOperadores.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/CombinandoOperadores/obj/Debug/net6.0/ref/CombinandoOperadores.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/CombinandoOperadores/obj/Debug/net6.0/CombinandoOperadores.pdb
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/CombinandoOperadores/obj/Debug/net6.0/CombinandoOperadores.genruntimeconfig.cache
