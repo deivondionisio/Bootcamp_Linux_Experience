@@ -1,0 +1,15 @@
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipo De Dados/DeclarandoTiposVariaveis/bin/Debug/net6.0/DeclarandoTiposVariaveis
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipo De Dados/DeclarandoTiposVariaveis/bin/Debug/net6.0/DeclarandoTiposVariaveis.deps.json
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipo De Dados/DeclarandoTiposVariaveis/bin/Debug/net6.0/DeclarandoTiposVariaveis.runtimeconfig.json
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipo De Dados/DeclarandoTiposVariaveis/bin/Debug/net6.0/DeclarandoTiposVariaveis.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipo De Dados/DeclarandoTiposVariaveis/bin/Debug/net6.0/ref/DeclarandoTiposVariaveis.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipo De Dados/DeclarandoTiposVariaveis/bin/Debug/net6.0/DeclarandoTiposVariaveis.pdb
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipo De Dados/DeclarandoTiposVariaveis/obj/Debug/net6.0/DeclarandoTiposVariaveis.csproj.AssemblyReference.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipo De Dados/DeclarandoTiposVariaveis/obj/Debug/net6.0/DeclarandoTiposVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipo De Dados/DeclarandoTiposVariaveis/obj/Debug/net6.0/DeclarandoTiposVariaveis.AssemblyInfoInputs.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipo De Dados/DeclarandoTiposVariaveis/obj/Debug/net6.0/DeclarandoTiposVariaveis.AssemblyInfo.cs
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipo De Dados/DeclarandoTiposVariaveis/obj/Debug/net6.0/DeclarandoTiposVariaveis.csproj.CoreCompileInputs.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipo De Dados/DeclarandoTiposVariaveis/obj/Debug/net6.0/DeclarandoTiposVariaveis.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipo De Dados/DeclarandoTiposVariaveis/obj/Debug/net6.0/ref/DeclarandoTiposVariaveis.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipo De Dados/DeclarandoTiposVariaveis/obj/Debug/net6.0/DeclarandoTiposVariaveis.pdb
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipo De Dados/DeclarandoTiposVariaveis/obj/Debug/net6.0/DeclarandoTiposVariaveis.genruntimeconfig.cache
