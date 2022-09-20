@@ -13,3 +13,18 @@
 /home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipo De Dados/DateTimne/obj/Debug/net6.0/ref/DateTimne.dll
 /home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipo De Dados/DateTimne/obj/Debug/net6.0/DateTimne.pdb
 /home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipo De Dados/DateTimne/obj/Debug/net6.0/DateTimne.genruntimeconfig.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Sintaxe e Tipos de Dados em C#\Tipo De Dados\DateTimne\bin\Debug\net6.0\DateTimne.exe
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Sintaxe e Tipos de Dados em C#\Tipo De Dados\DateTimne\bin\Debug\net6.0\DateTimne.deps.json
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Sintaxe e Tipos de Dados em C#\Tipo De Dados\DateTimne\bin\Debug\net6.0\DateTimne.runtimeconfig.json
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Sintaxe e Tipos de Dados em C#\Tipo De Dados\DateTimne\bin\Debug\net6.0\DateTimne.dll
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Sintaxe e Tipos de Dados em C#\Tipo De Dados\DateTimne\bin\Debug\net6.0\DateTimne.pdb
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Sintaxe e Tipos de Dados em C#\Tipo De Dados\DateTimne\obj\Debug\net6.0\DateTimne.csproj.AssemblyReference.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Sintaxe e Tipos de Dados em C#\Tipo De Dados\DateTimne\obj\Debug\net6.0\DateTimne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Sintaxe e Tipos de Dados em C#\Tipo De Dados\DateTimne\obj\Debug\net6.0\DateTimne.AssemblyInfoInputs.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Sintaxe e Tipos de Dados em C#\Tipo De Dados\DateTimne\obj\Debug\net6.0\DateTimne.AssemblyInfo.cs
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Sintaxe e Tipos de Dados em C#\Tipo De Dados\DateTimne\obj\Debug\net6.0\DateTimne.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Sintaxe e Tipos de Dados em C#\Tipo De Dados\DateTimne\obj\Debug\net6.0\DateTimne.dll
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Sintaxe e Tipos de Dados em C#\Tipo De Dados\DateTimne\obj\Debug\net6.0\refint\DateTimne.dll
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Sintaxe e Tipos de Dados em C#\Tipo De Dados\DateTimne\obj\Debug\net6.0\DateTimne.pdb
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Sintaxe e Tipos de Dados em C#\Tipo De Dados\DateTimne\obj\Debug\net6.0\DateTimne.genruntimeconfig.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Sintaxe e Tipos de Dados em C#\Tipo De Dados\DateTimne\obj\Debug\net6.0\ref\DateTimne.dll
