@@ -1,0 +1,15 @@
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Condicionais/SwitchCase/bin/Debug/net6.0/SwitchCase
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Condicionais/SwitchCase/bin/Debug/net6.0/SwitchCase.deps.json
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Condicionais/SwitchCase/bin/Debug/net6.0/SwitchCase.runtimeconfig.json
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Condicionais/SwitchCase/bin/Debug/net6.0/SwitchCase.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Condicionais/SwitchCase/bin/Debug/net6.0/ref/SwitchCase.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Condicionais/SwitchCase/bin/Debug/net6.0/SwitchCase.pdb
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Condicionais/SwitchCase/obj/Debug/net6.0/SwitchCase.csproj.AssemblyReference.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Condicionais/SwitchCase/obj/Debug/net6.0/SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Condicionais/SwitchCase/obj/Debug/net6.0/SwitchCase.AssemblyInfoInputs.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Condicionais/SwitchCase/obj/Debug/net6.0/SwitchCase.AssemblyInfo.cs
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Condicionais/SwitchCase/obj/Debug/net6.0/SwitchCase.csproj.CoreCompileInputs.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Condicionais/SwitchCase/obj/Debug/net6.0/SwitchCase.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Condicionais/SwitchCase/obj/Debug/net6.0/ref/SwitchCase.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Condicionais/SwitchCase/obj/Debug/net6.0/SwitchCase.pdb
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Condicionais/SwitchCase/obj/Debug/net6.0/SwitchCase.genruntimeconfig.cache
