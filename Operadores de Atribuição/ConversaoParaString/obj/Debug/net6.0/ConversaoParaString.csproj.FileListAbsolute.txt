@@ -1,0 +1,15 @@
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConversaoParaString/bin/Debug/net6.0/ConversaoParaString
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConversaoParaString/bin/Debug/net6.0/ConversaoParaString.deps.json
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConversaoParaString/bin/Debug/net6.0/ConversaoParaString.runtimeconfig.json
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConversaoParaString/bin/Debug/net6.0/ConversaoParaString.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConversaoParaString/bin/Debug/net6.0/ref/ConversaoParaString.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConversaoParaString/bin/Debug/net6.0/ConversaoParaString.pdb
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConversaoParaString/obj/Debug/net6.0/ConversaoParaString.csproj.AssemblyReference.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConversaoParaString/obj/Debug/net6.0/ConversaoParaString.GeneratedMSBuildEditorConfig.editorconfig
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConversaoParaString/obj/Debug/net6.0/ConversaoParaString.AssemblyInfoInputs.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConversaoParaString/obj/Debug/net6.0/ConversaoParaString.AssemblyInfo.cs
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConversaoParaString/obj/Debug/net6.0/ConversaoParaString.csproj.CoreCompileInputs.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConversaoParaString/obj/Debug/net6.0/ConversaoParaString.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConversaoParaString/obj/Debug/net6.0/ref/ConversaoParaString.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConversaoParaString/obj/Debug/net6.0/ConversaoParaString.pdb
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConversaoParaString/obj/Debug/net6.0/ConversaoParaString.genruntimeconfig.cache
