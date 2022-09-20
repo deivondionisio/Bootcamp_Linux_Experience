@@ -1,0 +1,15 @@
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConvertendoDeManeiraSegura/bin/Debug/net6.0/ConvertendoDeManeiraSegura
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConvertendoDeManeiraSegura/bin/Debug/net6.0/ConvertendoDeManeiraSegura.deps.json
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConvertendoDeManeiraSegura/bin/Debug/net6.0/ConvertendoDeManeiraSegura.runtimeconfig.json
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConvertendoDeManeiraSegura/bin/Debug/net6.0/ConvertendoDeManeiraSegura.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConvertendoDeManeiraSegura/bin/Debug/net6.0/ref/ConvertendoDeManeiraSegura.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConvertendoDeManeiraSegura/bin/Debug/net6.0/ConvertendoDeManeiraSegura.pdb
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConvertendoDeManeiraSegura/obj/Debug/net6.0/ConvertendoDeManeiraSegura.csproj.AssemblyReference.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConvertendoDeManeiraSegura/obj/Debug/net6.0/ConvertendoDeManeiraSegura.GeneratedMSBuildEditorConfig.editorconfig
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConvertendoDeManeiraSegura/obj/Debug/net6.0/ConvertendoDeManeiraSegura.AssemblyInfoInputs.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConvertendoDeManeiraSegura/obj/Debug/net6.0/ConvertendoDeManeiraSegura.AssemblyInfo.cs
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConvertendoDeManeiraSegura/obj/Debug/net6.0/ConvertendoDeManeiraSegura.csproj.CoreCompileInputs.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConvertendoDeManeiraSegura/obj/Debug/net6.0/ConvertendoDeManeiraSegura.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConvertendoDeManeiraSegura/obj/Debug/net6.0/ref/ConvertendoDeManeiraSegura.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConvertendoDeManeiraSegura/obj/Debug/net6.0/ConvertendoDeManeiraSegura.pdb
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/ConvertendoDeManeiraSegura/obj/Debug/net6.0/ConvertendoDeManeiraSegura.genruntimeconfig.cache
