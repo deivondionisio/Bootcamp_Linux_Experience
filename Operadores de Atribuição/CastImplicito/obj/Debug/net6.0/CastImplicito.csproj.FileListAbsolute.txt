@@ -1,0 +1,15 @@
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/CastImplicito/bin/Debug/net6.0/CastImplicito
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/CastImplicito/bin/Debug/net6.0/CastImplicito.deps.json
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/CastImplicito/bin/Debug/net6.0/CastImplicito.runtimeconfig.json
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/CastImplicito/bin/Debug/net6.0/CastImplicito.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/CastImplicito/bin/Debug/net6.0/ref/CastImplicito.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/CastImplicito/bin/Debug/net6.0/CastImplicito.pdb
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/CastImplicito/obj/Debug/net6.0/CastImplicito.csproj.AssemblyReference.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/CastImplicito/obj/Debug/net6.0/CastImplicito.GeneratedMSBuildEditorConfig.editorconfig
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/CastImplicito/obj/Debug/net6.0/CastImplicito.AssemblyInfoInputs.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/CastImplicito/obj/Debug/net6.0/CastImplicito.AssemblyInfo.cs
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/CastImplicito/obj/Debug/net6.0/CastImplicito.csproj.CoreCompileInputs.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/CastImplicito/obj/Debug/net6.0/CastImplicito.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/CastImplicito/obj/Debug/net6.0/ref/CastImplicito.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/CastImplicito/obj/Debug/net6.0/CastImplicito.pdb
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/CastImplicito/obj/Debug/net6.0/CastImplicito.genruntimeconfig.cache
