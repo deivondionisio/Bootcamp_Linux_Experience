@@ -1,0 +1,15 @@
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Condicionais/OperadorCondicionalNaPratica/bin/Debug/net6.0/OperadorCondicionalNaPratica
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Condicionais/OperadorCondicionalNaPratica/bin/Debug/net6.0/OperadorCondicionalNaPratica.deps.json
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Condicionais/OperadorCondicionalNaPratica/bin/Debug/net6.0/OperadorCondicionalNaPratica.runtimeconfig.json
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Condicionais/OperadorCondicionalNaPratica/bin/Debug/net6.0/OperadorCondicionalNaPratica.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Condicionais/OperadorCondicionalNaPratica/bin/Debug/net6.0/ref/OperadorCondicionalNaPratica.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Condicionais/OperadorCondicionalNaPratica/bin/Debug/net6.0/OperadorCondicionalNaPratica.pdb
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Condicionais/OperadorCondicionalNaPratica/obj/Debug/net6.0/OperadorCondicionalNaPratica.csproj.AssemblyReference.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Condicionais/OperadorCondicionalNaPratica/obj/Debug/net6.0/OperadorCondicionalNaPratica.GeneratedMSBuildEditorConfig.editorconfig
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Condicionais/OperadorCondicionalNaPratica/obj/Debug/net6.0/OperadorCondicionalNaPratica.AssemblyInfoInputs.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Condicionais/OperadorCondicionalNaPratica/obj/Debug/net6.0/OperadorCondicionalNaPratica.AssemblyInfo.cs
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Condicionais/OperadorCondicionalNaPratica/obj/Debug/net6.0/OperadorCondicionalNaPratica.csproj.CoreCompileInputs.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Condicionais/OperadorCondicionalNaPratica/obj/Debug/net6.0/OperadorCondicionalNaPratica.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Condicionais/OperadorCondicionalNaPratica/obj/Debug/net6.0/ref/OperadorCondicionalNaPratica.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Condicionais/OperadorCondicionalNaPratica/obj/Debug/net6.0/OperadorCondicionalNaPratica.pdb
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Condicionais/OperadorCondicionalNaPratica/obj/Debug/net6.0/OperadorCondicionalNaPratica.genruntimeconfig.cache
