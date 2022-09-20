@@ -1,0 +1,15 @@
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Lógicos/Operador-or/bin/Debug/net6.0/Operador-or
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Lógicos/Operador-or/bin/Debug/net6.0/Operador-or.deps.json
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Lógicos/Operador-or/bin/Debug/net6.0/Operador-or.runtimeconfig.json
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Lógicos/Operador-or/bin/Debug/net6.0/Operador-or.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Lógicos/Operador-or/bin/Debug/net6.0/ref/Operador-or.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Lógicos/Operador-or/bin/Debug/net6.0/Operador-or.pdb
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Lógicos/Operador-or/obj/Debug/net6.0/Operador-or.csproj.AssemblyReference.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Lógicos/Operador-or/obj/Debug/net6.0/Operador-or.GeneratedMSBuildEditorConfig.editorconfig
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Lógicos/Operador-or/obj/Debug/net6.0/Operador-or.AssemblyInfoInputs.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Lógicos/Operador-or/obj/Debug/net6.0/Operador-or.AssemblyInfo.cs
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Lógicos/Operador-or/obj/Debug/net6.0/Operador-or.csproj.CoreCompileInputs.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Lógicos/Operador-or/obj/Debug/net6.0/Operador-or.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Lógicos/Operador-or/obj/Debug/net6.0/ref/Operador-or.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Lógicos/Operador-or/obj/Debug/net6.0/Operador-or.pdb
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Tipos de Operadores em C#/Operadores Lógicos/Operador-or/obj/Debug/net6.0/Operador-or.genruntimeconfig.cache
