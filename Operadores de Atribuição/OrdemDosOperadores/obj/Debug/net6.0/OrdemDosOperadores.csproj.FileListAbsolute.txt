@@ -1,0 +1,15 @@
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/OrdemDosOperadores/bin/Debug/net6.0/OrdemDosOperadores
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/OrdemDosOperadores/bin/Debug/net6.0/OrdemDosOperadores.deps.json
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/OrdemDosOperadores/bin/Debug/net6.0/OrdemDosOperadores.runtimeconfig.json
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/OrdemDosOperadores/bin/Debug/net6.0/OrdemDosOperadores.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/OrdemDosOperadores/bin/Debug/net6.0/ref/OrdemDosOperadores.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/OrdemDosOperadores/bin/Debug/net6.0/OrdemDosOperadores.pdb
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/OrdemDosOperadores/obj/Debug/net6.0/OrdemDosOperadores.csproj.AssemblyReference.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/OrdemDosOperadores/obj/Debug/net6.0/OrdemDosOperadores.GeneratedMSBuildEditorConfig.editorconfig
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/OrdemDosOperadores/obj/Debug/net6.0/OrdemDosOperadores.AssemblyInfoInputs.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/OrdemDosOperadores/obj/Debug/net6.0/OrdemDosOperadores.AssemblyInfo.cs
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/OrdemDosOperadores/obj/Debug/net6.0/OrdemDosOperadores.csproj.CoreCompileInputs.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/OrdemDosOperadores/obj/Debug/net6.0/OrdemDosOperadores.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/OrdemDosOperadores/obj/Debug/net6.0/ref/OrdemDosOperadores.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/OrdemDosOperadores/obj/Debug/net6.0/OrdemDosOperadores.pdb
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/Operadores de Atribuição/OrdemDosOperadores/obj/Debug/net6.0/OrdemDosOperadores.genruntimeconfig.cache
