@@ -1,0 +1,15 @@
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\IntroducaoWhile\bin\Debug\net6.0\IntroducaoWhile.exe
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\IntroducaoWhile\bin\Debug\net6.0\IntroducaoWhile.deps.json
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\IntroducaoWhile\bin\Debug\net6.0\IntroducaoWhile.runtimeconfig.json
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\IntroducaoWhile\bin\Debug\net6.0\IntroducaoWhile.dll
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\IntroducaoWhile\bin\Debug\net6.0\IntroducaoWhile.pdb
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\IntroducaoWhile\obj\Debug\net6.0\IntroducaoWhile.csproj.AssemblyReference.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\IntroducaoWhile\obj\Debug\net6.0\IntroducaoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\IntroducaoWhile\obj\Debug\net6.0\IntroducaoWhile.AssemblyInfoInputs.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\IntroducaoWhile\obj\Debug\net6.0\IntroducaoWhile.AssemblyInfo.cs
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\IntroducaoWhile\obj\Debug\net6.0\IntroducaoWhile.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\IntroducaoWhile\obj\Debug\net6.0\IntroducaoWhile.dll
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\IntroducaoWhile\obj\Debug\net6.0\refint\IntroducaoWhile.dll
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\IntroducaoWhile\obj\Debug\net6.0\IntroducaoWhile.pdb
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\IntroducaoWhile\obj\Debug\net6.0\IntroducaoWhile.genruntimeconfig.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\IntroducaoWhile\obj\Debug\net6.0\ref\IntroducaoWhile.dll
