@@ -1,0 +1,30 @@
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/bin/Debug/net6.0/Bootcamp_Linux_Experience
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/bin/Debug/net6.0/Bootcamp_Linux_Experience.deps.json
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/bin/Debug/net6.0/Bootcamp_Linux_Experience.runtimeconfig.json
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/bin/Debug/net6.0/Bootcamp_Linux_Experience.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/bin/Debug/net6.0/ref/Bootcamp_Linux_Experience.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/bin/Debug/net6.0/Bootcamp_Linux_Experience.pdb
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/obj/Debug/net6.0/Bootcamp_Linux_Experience.csproj.AssemblyReference.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/obj/Debug/net6.0/Bootcamp_Linux_Experience.GeneratedMSBuildEditorConfig.editorconfig
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/obj/Debug/net6.0/Bootcamp_Linux_Experience.AssemblyInfoInputs.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/obj/Debug/net6.0/Bootcamp_Linux_Experience.AssemblyInfo.cs
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/obj/Debug/net6.0/Bootcamp_Linux_Experience.csproj.CoreCompileInputs.cache
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/obj/Debug/net6.0/Bootcamp_Linux_Experience.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/obj/Debug/net6.0/ref/Bootcamp_Linux_Experience.dll
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/obj/Debug/net6.0/Bootcamp_Linux_Experience.pdb
+/home/deivon-dionisio/Documentos/GitHub/Bootcamp_Linux_Experience/obj/Debug/net6.0/Bootcamp_Linux_Experience.genruntimeconfig.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Criando a nossa classe Calculadora\bin\Debug\net6.0\Bootcamp_Linux_Experience.exe
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Criando a nossa classe Calculadora\bin\Debug\net6.0\Bootcamp_Linux_Experience.deps.json
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Criando a nossa classe Calculadora\bin\Debug\net6.0\Bootcamp_Linux_Experience.runtimeconfig.json
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Criando a nossa classe Calculadora\bin\Debug\net6.0\Bootcamp_Linux_Experience.dll
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Criando a nossa classe Calculadora\bin\Debug\net6.0\Bootcamp_Linux_Experience.pdb
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Criando a nossa classe Calculadora\obj\Debug\net6.0\Bootcamp_Linux_Experience.csproj.AssemblyReference.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Criando a nossa classe Calculadora\obj\Debug\net6.0\Bootcamp_Linux_Experience.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Criando a nossa classe Calculadora\obj\Debug\net6.0\Bootcamp_Linux_Experience.AssemblyInfoInputs.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Criando a nossa classe Calculadora\obj\Debug\net6.0\Bootcamp_Linux_Experience.AssemblyInfo.cs
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Criando a nossa classe Calculadora\obj\Debug\net6.0\Bootcamp_Linux_Experience.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Criando a nossa classe Calculadora\obj\Debug\net6.0\Bootcamp_Linux_Experience.dll
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Criando a nossa classe Calculadora\obj\Debug\net6.0\refint\Bootcamp_Linux_Experience.dll
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Criando a nossa classe Calculadora\obj\Debug\net6.0\Bootcamp_Linux_Experience.pdb
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Criando a nossa classe Calculadora\obj\Debug\net6.0\Bootcamp_Linux_Experience.genruntimeconfig.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Criando a nossa classe Calculadora\obj\Debug\net6.0\ref\Bootcamp_Linux_Experience.dll
