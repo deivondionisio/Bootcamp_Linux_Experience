@@ -1,0 +1,15 @@
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\IntroduçãoFor\bin\Debug\net6.0\IntroduçãoFor.exe
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\IntroduçãoFor\bin\Debug\net6.0\IntroduçãoFor.deps.json
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\IntroduçãoFor\bin\Debug\net6.0\IntroduçãoFor.runtimeconfig.json
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\IntroduçãoFor\bin\Debug\net6.0\IntroduçãoFor.dll
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\IntroduçãoFor\bin\Debug\net6.0\IntroduçãoFor.pdb
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\IntroduçãoFor\obj\Debug\net6.0\IntroduçãoFor.csproj.AssemblyReference.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\IntroduçãoFor\obj\Debug\net6.0\IntroduçãoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\IntroduçãoFor\obj\Debug\net6.0\IntroduçãoFor.AssemblyInfoInputs.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\IntroduçãoFor\obj\Debug\net6.0\IntroduçãoFor.AssemblyInfo.cs
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\IntroduçãoFor\obj\Debug\net6.0\IntroduçãoFor.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\IntroduçãoFor\obj\Debug\net6.0\IntroduçãoFor.dll
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\IntroduçãoFor\obj\Debug\net6.0\refint\IntroduçãoFor.dll
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\IntroduçãoFor\obj\Debug\net6.0\IntroduçãoFor.pdb
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\IntroduçãoFor\obj\Debug\net6.0\IntroduçãoFor.genruntimeconfig.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\IntroduçãoFor\obj\Debug\net6.0\ref\IntroduçãoFor.dll
