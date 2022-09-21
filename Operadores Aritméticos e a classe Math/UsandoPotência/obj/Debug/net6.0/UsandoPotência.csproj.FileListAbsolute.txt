@@ -1,0 +1,15 @@
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\UsandoPotência\bin\Debug\net6.0\UsandoPotência.exe
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\UsandoPotência\bin\Debug\net6.0\UsandoPotência.deps.json
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\UsandoPotência\bin\Debug\net6.0\UsandoPotência.runtimeconfig.json
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\UsandoPotência\bin\Debug\net6.0\UsandoPotência.dll
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\UsandoPotência\bin\Debug\net6.0\UsandoPotência.pdb
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\UsandoPotência\obj\Debug\net6.0\UsandoPotência.csproj.AssemblyReference.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\UsandoPotência\obj\Debug\net6.0\UsandoPotência.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\UsandoPotência\obj\Debug\net6.0\UsandoPotência.AssemblyInfoInputs.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\UsandoPotência\obj\Debug\net6.0\UsandoPotência.AssemblyInfo.cs
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\UsandoPotência\obj\Debug\net6.0\UsandoPotência.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\UsandoPotência\obj\Debug\net6.0\UsandoPotência.dll
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\UsandoPotência\obj\Debug\net6.0\refint\UsandoPotência.dll
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\UsandoPotência\obj\Debug\net6.0\UsandoPotência.pdb
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\UsandoPotência\obj\Debug\net6.0\UsandoPotência.genruntimeconfig.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\UsandoPotência\obj\Debug\net6.0\ref\UsandoPotência.dll
