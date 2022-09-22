@@ -1,0 +1,15 @@
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\CalculandoRaizQuadrada\bin\Debug\net6.0\CalculandoRaizQuadrada.exe
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\CalculandoRaizQuadrada\bin\Debug\net6.0\CalculandoRaizQuadrada.deps.json
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\CalculandoRaizQuadrada\bin\Debug\net6.0\CalculandoRaizQuadrada.runtimeconfig.json
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\CalculandoRaizQuadrada\bin\Debug\net6.0\CalculandoRaizQuadrada.dll
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\CalculandoRaizQuadrada\bin\Debug\net6.0\CalculandoRaizQuadrada.pdb
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\CalculandoRaizQuadrada\obj\Debug\net6.0\CalculandoRaizQuadrada.csproj.AssemblyReference.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\CalculandoRaizQuadrada\obj\Debug\net6.0\CalculandoRaizQuadrada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\CalculandoRaizQuadrada\obj\Debug\net6.0\CalculandoRaizQuadrada.AssemblyInfoInputs.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\CalculandoRaizQuadrada\obj\Debug\net6.0\CalculandoRaizQuadrada.AssemblyInfo.cs
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\CalculandoRaizQuadrada\obj\Debug\net6.0\CalculandoRaizQuadrada.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\CalculandoRaizQuadrada\obj\Debug\net6.0\CalculandoRaizQuadrada.dll
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\CalculandoRaizQuadrada\obj\Debug\net6.0\refint\CalculandoRaizQuadrada.dll
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\CalculandoRaizQuadrada\obj\Debug\net6.0\CalculandoRaizQuadrada.pdb
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\CalculandoRaizQuadrada\obj\Debug\net6.0\CalculandoRaizQuadrada.genruntimeconfig.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\CalculandoRaizQuadrada\obj\Debug\net6.0\ref\CalculandoRaizQuadrada.dll
