@@ -1,0 +1,15 @@
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\Funções_Trigonometricas\bin\Debug\net6.0\Funções_Trigonometricas.exe
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\Funções_Trigonometricas\bin\Debug\net6.0\Funções_Trigonometricas.deps.json
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\Funções_Trigonometricas\bin\Debug\net6.0\Funções_Trigonometricas.runtimeconfig.json
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\Funções_Trigonometricas\bin\Debug\net6.0\Funções_Trigonometricas.dll
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\Funções_Trigonometricas\bin\Debug\net6.0\Funções_Trigonometricas.pdb
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\Funções_Trigonometricas\obj\Debug\net6.0\Funções_Trigonometricas.csproj.AssemblyReference.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\Funções_Trigonometricas\obj\Debug\net6.0\Funções_Trigonometricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\Funções_Trigonometricas\obj\Debug\net6.0\Funções_Trigonometricas.AssemblyInfoInputs.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\Funções_Trigonometricas\obj\Debug\net6.0\Funções_Trigonometricas.AssemblyInfo.cs
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\Funções_Trigonometricas\obj\Debug\net6.0\Funções_Trigonometricas.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\Funções_Trigonometricas\obj\Debug\net6.0\Funções_Trigonometricas.dll
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\Funções_Trigonometricas\obj\Debug\net6.0\refint\Funções_Trigonometricas.dll
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\Funções_Trigonometricas\obj\Debug\net6.0\Funções_Trigonometricas.pdb
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\Funções_Trigonometricas\obj\Debug\net6.0\Funções_Trigonometricas.genruntimeconfig.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Operadores Aritméticos e a classe Math\Funções_Trigonometricas\obj\Debug\net6.0\ref\Funções_Trigonometricas.dll
