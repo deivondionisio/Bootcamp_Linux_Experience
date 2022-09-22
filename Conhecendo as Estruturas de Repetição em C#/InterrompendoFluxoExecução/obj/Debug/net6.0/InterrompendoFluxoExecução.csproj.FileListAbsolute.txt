@@ -1,0 +1,15 @@
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\InterrompendoFluxoExecução\bin\Debug\net6.0\InterrompendoFluxoExecução.exe
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\InterrompendoFluxoExecução\bin\Debug\net6.0\InterrompendoFluxoExecução.deps.json
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\InterrompendoFluxoExecução\bin\Debug\net6.0\InterrompendoFluxoExecução.runtimeconfig.json
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\InterrompendoFluxoExecução\bin\Debug\net6.0\InterrompendoFluxoExecução.dll
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\InterrompendoFluxoExecução\bin\Debug\net6.0\InterrompendoFluxoExecução.pdb
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\InterrompendoFluxoExecução\obj\Debug\net6.0\InterrompendoFluxoExecução.csproj.AssemblyReference.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\InterrompendoFluxoExecução\obj\Debug\net6.0\InterrompendoFluxoExecução.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\InterrompendoFluxoExecução\obj\Debug\net6.0\InterrompendoFluxoExecução.AssemblyInfoInputs.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\InterrompendoFluxoExecução\obj\Debug\net6.0\InterrompendoFluxoExecução.AssemblyInfo.cs
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\InterrompendoFluxoExecução\obj\Debug\net6.0\InterrompendoFluxoExecução.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\InterrompendoFluxoExecução\obj\Debug\net6.0\InterrompendoFluxoExecução.dll
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\InterrompendoFluxoExecução\obj\Debug\net6.0\refint\InterrompendoFluxoExecução.dll
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\InterrompendoFluxoExecução\obj\Debug\net6.0\InterrompendoFluxoExecução.pdb
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\InterrompendoFluxoExecução\obj\Debug\net6.0\InterrompendoFluxoExecução.genruntimeconfig.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\InterrompendoFluxoExecução\obj\Debug\net6.0\ref\InterrompendoFluxoExecução.dll
