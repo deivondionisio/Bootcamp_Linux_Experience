@@ -1,0 +1,15 @@
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\MenuInterativo\bin\Debug\net6.0\MenuInterativo.exe
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\MenuInterativo\bin\Debug\net6.0\MenuInterativo.deps.json
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\MenuInterativo\bin\Debug\net6.0\MenuInterativo.runtimeconfig.json
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\MenuInterativo\bin\Debug\net6.0\MenuInterativo.dll
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\MenuInterativo\bin\Debug\net6.0\MenuInterativo.pdb
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\MenuInterativo\obj\Debug\net6.0\MenuInterativo.csproj.AssemblyReference.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\MenuInterativo\obj\Debug\net6.0\MenuInterativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\MenuInterativo\obj\Debug\net6.0\MenuInterativo.AssemblyInfoInputs.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\MenuInterativo\obj\Debug\net6.0\MenuInterativo.AssemblyInfo.cs
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\MenuInterativo\obj\Debug\net6.0\MenuInterativo.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\MenuInterativo\obj\Debug\net6.0\MenuInterativo.dll
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\MenuInterativo\obj\Debug\net6.0\refint\MenuInterativo.dll
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\MenuInterativo\obj\Debug\net6.0\MenuInterativo.pdb
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\MenuInterativo\obj\Debug\net6.0\MenuInterativo.genruntimeconfig.cache
+C:\Users\david\Documents\GitHub\Pottencial_.NET_Developer\Conhecendo as Estruturas de Repetição em C#\MenuInterativo\obj\Debug\net6.0\ref\MenuInterativo.dll

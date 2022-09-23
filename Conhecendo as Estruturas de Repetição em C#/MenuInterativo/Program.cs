@@ -2,6 +2,7 @@
 
 while (true)
 {
+    Console.Clear();
     Console.WriteLine("Digite a sua opção:");
     Console.WriteLine("1 - Cadastrar cliente");
     Console.WriteLine("2 - Buscar cliente");
