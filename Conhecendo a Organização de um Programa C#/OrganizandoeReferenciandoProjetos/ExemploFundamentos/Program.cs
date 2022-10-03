@@ -1,4 +1,4 @@
-﻿using Bootcamp_Linux_Experience.Models;
+﻿using Bootcamp_Linux_Experience.Common.Models;
 
 Pessoa pessoa1 = new Pessoa();
 pessoa1.Nome = "David";
