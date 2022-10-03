@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bootcamp_Linux_Experience", "Bootcamp_Linux_Experience.csproj", "{2A2728A9-92D1-48D9-A9F6-7B1306050E9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploFundamentos.Common", "ExemploFundamentos.Common\ExemploFundamentos.Common.csproj", "{2C1F48E6-9C64-4085-91CF-D082822645F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A2728A9-92D1-48D9-A9F6-7B1306050E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A2728A9-92D1-48D9-A9F6-7B1306050E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A2728A9-92D1-48D9-A9F6-7B1306050E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A2728A9-92D1-48D9-A9F6-7B1306050E9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C1F48E6-9C64-4085-91CF-D082822645F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C1F48E6-9C64-4085-91CF-D082822645F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C1F48E6-9C64-4085-91CF-D082822645F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C1F48E6-9C64-4085-91CF-D082822645F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
