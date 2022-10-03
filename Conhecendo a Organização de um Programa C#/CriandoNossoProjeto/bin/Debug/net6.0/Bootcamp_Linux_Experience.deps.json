@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "RefatorandoMenu/1.0.0": {
+      "Bootcamp_Linux_Experience/1.0.0": {
         "runtime": {
-          "RefatorandoMenu.dll": {}
+          "Bootcamp_Linux_Experience.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "RefatorandoMenu/1.0.0": {
+    "Bootcamp_Linux_Experience/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

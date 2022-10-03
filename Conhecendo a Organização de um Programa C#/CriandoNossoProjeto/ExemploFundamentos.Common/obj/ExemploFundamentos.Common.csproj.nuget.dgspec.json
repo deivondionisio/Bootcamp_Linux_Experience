@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\david\\Documents\\GitHub\\Pottencial_.NET_Developer\\Conhecendo as Estruturas de Repetição em C#\\RefatorandoMenu\\RefatorandoMenu.csproj": {}
+    "C:\\Users\\david\\Documents\\GitHub\\Pottencial_.NET_Developer\\Conhecendo a Organização de um Programa C#\\CriandoNossoProjeto\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\david\\Documents\\GitHub\\Pottencial_.NET_Developer\\Conhecendo as Estruturas de Repetição em C#\\RefatorandoMenu\\RefatorandoMenu.csproj": {
+    "C:\\Users\\david\\Documents\\GitHub\\Pottencial_.NET_Developer\\Conhecendo a Organização de um Programa C#\\CriandoNossoProjeto\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\Documents\\GitHub\\Pottencial_.NET_Developer\\Conhecendo as Estruturas de Repetição em C#\\RefatorandoMenu\\RefatorandoMenu.csproj",
-        "projectName": "RefatorandoMenu",
-        "projectPath": "C:\\Users\\david\\Documents\\GitHub\\Pottencial_.NET_Developer\\Conhecendo as Estruturas de Repetição em C#\\RefatorandoMenu\\RefatorandoMenu.csproj",
+        "projectUniqueName": "C:\\Users\\david\\Documents\\GitHub\\Pottencial_.NET_Developer\\Conhecendo a Organização de um Programa C#\\CriandoNossoProjeto\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
+        "projectName": "ExemploFundamentos.Common",
+        "projectPath": "C:\\Users\\david\\Documents\\GitHub\\Pottencial_.NET_Developer\\Conhecendo a Organização de um Programa C#\\CriandoNossoProjeto\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david\\Documents\\GitHub\\Pottencial_.NET_Developer\\Conhecendo as Estruturas de Repetição em C#\\RefatorandoMenu\\obj\\",
+        "outputPath": "C:\\Users\\david\\Documents\\GitHub\\Pottencial_.NET_Developer\\Conhecendo a Organização de um Programa C#\\CriandoNossoProjeto\\ExemploFundamentos.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

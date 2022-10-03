@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("RefatorandoMenu")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Bootcamp_Linux_Experience")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("RefatorandoMenu")]
-[assembly: System.Reflection.AssemblyTitleAttribute("RefatorandoMenu")]
+[assembly: System.Reflection.AssemblyProductAttribute("Bootcamp_Linux_Experience")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Bootcamp_Linux_Experience")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
