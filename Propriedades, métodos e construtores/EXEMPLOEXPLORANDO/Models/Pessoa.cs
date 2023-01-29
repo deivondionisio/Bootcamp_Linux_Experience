@@ -5,12 +5,9 @@ namespace ExemploExplorando.Models
         private string _nome;
         public string Nome
         {
-            get
-            {
-                return _nome.ToUpper();
-            }
+            get => _nome.ToUpper();
 
-            set
+            set /* => _nome = value; */
             {
                 if (value == "")
                 {
@@ -19,6 +16,7 @@ namespace ExemploExplorando.Models
 
                 _nome = value;
             }
+
         }
 
 
