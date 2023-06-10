@@ -18,15 +18,26 @@ namespace DesafioFundamentos.Models
             Console.WriteLine("Digite a placa do veículo para estacionar:");
             string placa = Console.ReadLine();
 
-            veiculos.Add(placa);
-            Console.WriteLine($"Veículo com placa {placa} adicionado com sucesso!");
+            if (ValidarPlaca(placa))
+            {
+                veiculos.Add(placa);
+                Console.WriteLine($"Veículo com placa {placa} adicionado com sucesso!");
+            }
+            else
+            {
+                Console.WriteLine("Placa inválida. A placa deve estar no formato AAA-9999.");
+            }
         }
 
-        public void RemoverVeiculo()
+        private bool ValidarPlaca(string placa)
         {
-            Console.WriteLine("Digite a placa do veículo para remover:");
-            string placa = Console.ReadLine();
+            // Expressão regular para verificar o formato da placa: AAA-9999
+            string pattern = @"^[A-Z]{3}-\d{4}$";
+            return Regex.IsMatch(placa, pattern);
+        }
 
+        public void RemoverVeiculo(string placa)
+        {
             if (veiculos.Contains(placa))
             {
                 Console.WriteLine("Digite a quantidade de horas que o veículo permaneceu estacionado:");
@@ -43,14 +54,30 @@ namespace DesafioFundamentos.Models
             }
         }
 
+
         public void ListarVeiculos()
         {
             if (veiculos.Any())
             {
                 Console.WriteLine("Os veículos estacionados são:");
+                int index = 1;
                 foreach (var veiculo in veiculos)
                 {
-                    Console.WriteLine(veiculo);
+                    Console.WriteLine($"{index}. {veiculo}");
+                    index++;
+                }
+
+                Console.WriteLine("Digite o número do veículo que deseja remover:");
+                int opcao = Convert.ToInt32(Console.ReadLine());
+
+                if (opcao >= 1 && opcao <= veiculos.Count)
+                {
+                    string placa = veiculos[opcao - 1];
+                    RemoverVeiculo(placa);
+                }
+                else
+                {
+                    Console.WriteLine("Opção inválida.");
                 }
             }
             else
@@ -58,5 +85,6 @@ namespace DesafioFundamentos.Models
                 Console.WriteLine("Não há veículos estacionados.");
             }
         }
+
     }
 }

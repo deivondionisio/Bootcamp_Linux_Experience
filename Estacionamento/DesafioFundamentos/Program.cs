@@ -38,8 +38,11 @@ while (exibirMenu)
             break;
 
         case "2":
-            es.RemoverVeiculo();
+            Console.WriteLine("Digite a placa do veículo para remover:");
+            string placaRemover = Console.ReadLine();
+            es.RemoverVeiculo(placaRemover);
             break;
+
 
         case "3":
             es.ListarVeiculos();
