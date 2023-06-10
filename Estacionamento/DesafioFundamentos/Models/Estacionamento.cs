@@ -1,3 +1,8 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text.RegularExpressions;
+
 namespace DesafioFundamentos.Models
 {
     public class Estacionamento
@@ -5,35 +10,59 @@ namespace DesafioFundamentos.Models
         private decimal precoInicial;
         private decimal precoPorHora;
         private List<string> veiculos;
+        private List<string> veiculosRemovidos;
 
         public Estacionamento(decimal precoInicial, decimal precoPorHora)
         {
             this.precoInicial = precoInicial;
             this.precoPorHora = precoPorHora;
             this.veiculos = new List<string>();
+            this.veiculosRemovidos = new List<string>();
         }
 
         public void AdicionarVeiculo()
         {
-            Console.WriteLine("Digite a placa do veículo para estacionar:");
-            string placa = Console.ReadLine();
+            bool adicionarOutroVeiculo = true;
 
-            if (ValidarPlaca(placa))
+            while (adicionarOutroVeiculo)
             {
-                veiculos.Add(placa);
-                Console.WriteLine($"Veículo com placa {placa} adicionado com sucesso!");
-            }
-            else
-            {
-                Console.WriteLine("Placa inválida. A placa deve estar no formato AAA-9999.");
-            }
-        }
+                string placa;
+                bool placaValida = false;
 
-        private bool ValidarPlaca(string placa)
-        {
-            // Expressão regular para verificar o formato da placa: AAA-9999
-            string pattern = @"^[A-Z]{3}-\d{4}$";
-            return Regex.IsMatch(placa, pattern);
+                do
+                {
+                    Console.WriteLine("Digite a placa do veículo para estacionar:");
+                    placa = Console.ReadLine();
+
+                    if (ValidarPlaca(placa))
+                    {
+                        placaValida = true;
+                        veiculos.Add(placa);
+                        Console.WriteLine($"Veículo com placa {placa} adicionado com sucesso!");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Placa inválida. A placa deve estar no formato AAA-9999.");
+                        Console.WriteLine("Deseja tentar novamente? (S/N)");
+                        string resposta = Console.ReadLine();
+
+                        if (resposta.Equals("N", StringComparison.OrdinalIgnoreCase))
+                        {
+                            adicionarOutroVeiculo = false;
+                            break;
+                        }
+                    }
+                } while (!placaValida);
+
+                if (adicionarOutroVeiculo)
+                {
+                    Console.WriteLine("Deseja adicionar outro veículo? (S/N)");
+                    string respostaAdicionarOutroVeiculo = Console.ReadLine();
+
+                    if (respostaAdicionarOutroVeiculo.Equals("N", StringComparison.OrdinalIgnoreCase))
+                        adicionarOutroVeiculo = false;
+                }
+            }
         }
 
         public void RemoverVeiculo(string placa)
@@ -45,6 +74,7 @@ namespace DesafioFundamentos.Models
 
                 decimal valorTotal = precoInicial + precoPorHora * horas;
                 veiculos.Remove(placa);
+                veiculosRemovidos.Add(placa);
 
                 Console.WriteLine($"O veículo {placa} foi removido e o preço total foi de: R$ {valorTotal}");
             }
@@ -53,7 +83,6 @@ namespace DesafioFundamentos.Models
                 Console.WriteLine($"Não foi encontrado nenhum veículo com a placa {placa}");
             }
         }
-
 
         public void ListarVeiculos()
         {
@@ -67,13 +96,18 @@ namespace DesafioFundamentos.Models
                     index++;
                 }
 
-                Console.WriteLine("Digite o número do veículo que deseja remover:");
+                Console.WriteLine("Digite o número do veículo que deseja remover ou 0 para retornar ao menu:");
                 int opcao = Convert.ToInt32(Console.ReadLine());
 
                 if (opcao >= 1 && opcao <= veiculos.Count)
                 {
                     string placa = veiculos[opcao - 1];
                     RemoverVeiculo(placa);
+                }
+                else if (opcao == 0)
+                {
+                    // O usuário escolheu retornar ao menu
+                    return;
                 }
                 else
                 {
@@ -86,5 +120,42 @@ namespace DesafioFundamentos.Models
             }
         }
 
+        public void ImprimirVeiculosRemovidos()
+        {
+            if (veiculosRemovidos.Any())
+            {
+                Console.WriteLine("Veículos removidos:");
+
+                foreach (var veiculo in veiculosRemovidos)
+                {
+                    Console.WriteLine(veiculo);
+                }
+            }
+            else
+            {
+                Console.WriteLine("Nenhum veículo foi removido.");
+            }
+        }
+
+        public decimal CalcularValorTotal()
+        {
+            decimal valorTotal = 0;
+
+            foreach (var veiculo in veiculosRemovidos)
+            {
+                Console.WriteLine("Digite a quantidade de horas que o veículo " + veiculo + " permaneceu estacionado:");
+                int horas = Convert.ToInt32(Console.ReadLine());
+
+                valorTotal += precoInicial + precoPorHora * horas;
+            }
+
+            return valorTotal;
+        }
+
+        private bool ValidarPlaca(string placa)
+        {
+            Regex regex = new Regex(@"^[A-Z]{3}-\d{4}$");
+            return regex.IsMatch(placa);
+        }
     }
 }
