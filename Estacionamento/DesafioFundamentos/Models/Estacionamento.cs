@@ -9,6 +9,9 @@ namespace DesafioFundamentos.Models
     {
         private decimal precoInicial;
         private decimal precoPorHora;
+        private int vagasCarro;
+        private int vagasMoto;
+        private int vagasCaminhao;
         private List<Veiculo> veiculos;
         private List<Veiculo> veiculosRemovidos;
 
@@ -16,11 +19,14 @@ namespace DesafioFundamentos.Models
         {
             this.precoInicial = precoInicial;
             this.precoPorHora = precoPorHora;
+            this.vagasCarro = 70;
+            this.vagasMoto = 20;
+            this.vagasCaminhao = 10;
             this.veiculos = new List<Veiculo>();
             this.veiculosRemovidos = new List<Veiculo>();
         }
 
-        public void AdicionarVeiculo()
+        public void AdicionarVeiculo(string tipoVeiculo)
         {
             bool adicionarOutroVeiculo = true;
 
@@ -37,8 +43,24 @@ namespace DesafioFundamentos.Models
                     if (ValidarPlaca(placa))
                     {
                         placaValida = true;
-                        Veiculo veiculo = new Veiculo(placa, DateTime.Now);
+                        Veiculo veiculo = new Veiculo(placa, tipoVeiculo, DateTime.Now);
                         veiculos.Add(veiculo);
+
+                        switch (tipoVeiculo.ToLower())
+                        {
+                            case "carro":
+                                vagasCarro--;
+                                break;
+
+                            case "moto":
+                                vagasMoto--;
+                                break;
+
+                            case "caminhão 3/4":
+                                vagasCaminhao--;
+                                break;
+                        }
+
                         Console.WriteLine($"Veículo com placa {placa} adicionado com sucesso!");
                     }
                     else
@@ -80,6 +102,21 @@ namespace DesafioFundamentos.Models
                 decimal valorTotal = precoInicial + precoPorHora * (decimal)duracaoEstacionamento.TotalHours;
 
                 Console.WriteLine($"O veículo {placa} foi removido e o preço total foi de: R$ {valorTotal}");
+
+                switch (veiculo.TipoVeiculo.ToLower())
+                {
+                    case "carro":
+                        vagasCarro++;
+                        break;
+
+                    case "moto":
+                        vagasMoto++;
+                        break;
+
+                    case "caminhão 3/4":
+                        vagasCaminhao++;
+                        break;
+                }
             }
             else
             {
@@ -95,7 +132,7 @@ namespace DesafioFundamentos.Models
                 int index = 1;
                 foreach (var veiculo in veiculos)
                 {
-                    Console.WriteLine($"{index}. {veiculo.Placa}");
+                    Console.WriteLine($"{index}. {veiculo.Placa} - {veiculo.TipoVeiculo}");
                     index++;
                 }
 
@@ -131,7 +168,7 @@ namespace DesafioFundamentos.Models
 
                 foreach (var veiculo in veiculosRemovidos)
                 {
-                    Console.WriteLine($"{veiculo.Placa} - Entrada: {veiculo.DataEntrada}, Saída: {veiculo.DataSaida}");
+                    Console.WriteLine($"{veiculo.Placa} - {veiculo.TipoVeiculo} - Entrada: {veiculo.DataEntrada}, Saída: {veiculo.DataSaida}");
                 }
             }
             else

@@ -10,7 +10,7 @@ public class Program
         decimal precoInicial = 0;
         decimal precoPorHora = 0;
 
-        Console.WriteLine("Seja bem vindo ao sistema de estacionamento!\n" +
+        Console.WriteLine("Seja bem-vindo ao sistema de estacionamento!\n" +
                           "Digite o preço inicial:");
         precoInicial = Convert.ToDecimal(Console.ReadLine());
 
@@ -34,7 +34,9 @@ public class Program
             switch (Console.ReadLine())
             {
                 case "1":
-                    es.AdicionarVeiculo();
+                    Console.WriteLine("Digite o tipo de veículo (carro, moto ou caminhão 3/4):");
+                    string tipoVeiculo = Console.ReadLine();
+                    es.AdicionarVeiculo(tipoVeiculo);
                     break;
 
                 case "2":
