@@ -9,15 +9,15 @@ namespace DesafioFundamentos.Models
     {
         private decimal precoInicial;
         private decimal precoPorHora;
-        private List<string> veiculos;
-        private List<string> veiculosRemovidos;
+        private List<Veiculo> veiculos;
+        private List<Veiculo> veiculosRemovidos;
 
         public Estacionamento(decimal precoInicial, decimal precoPorHora)
         {
             this.precoInicial = precoInicial;
             this.precoPorHora = precoPorHora;
-            this.veiculos = new List<string>();
-            this.veiculosRemovidos = new List<string>();
+            this.veiculos = new List<Veiculo>();
+            this.veiculosRemovidos = new List<Veiculo>();
         }
 
         public void AdicionarVeiculo()
@@ -37,7 +37,8 @@ namespace DesafioFundamentos.Models
                     if (ValidarPlaca(placa))
                     {
                         placaValida = true;
-                        veiculos.Add(placa);
+                        Veiculo veiculo = new Veiculo(placa, DateTime.Now);
+                        veiculos.Add(veiculo);
                         Console.WriteLine($"Veículo com placa {placa} adicionado com sucesso!");
                     }
                     else
@@ -67,14 +68,16 @@ namespace DesafioFundamentos.Models
 
         public void RemoverVeiculo(string placa)
         {
-            if (veiculos.Contains(placa))
-            {
-                Console.WriteLine("Digite a quantidade de horas que o veículo permaneceu estacionado:");
-                int horas = Convert.ToInt32(Console.ReadLine());
+            Veiculo veiculo = veiculos.FirstOrDefault(v => v.Placa == placa);
 
-                decimal valorTotal = precoInicial + precoPorHora * horas;
-                veiculos.Remove(placa);
-                veiculosRemovidos.Add(placa);
+            if (veiculo != null)
+            {
+                veiculo.DataSaida = DateTime.Now;
+                veiculos.Remove(veiculo);
+                veiculosRemovidos.Add(veiculo);
+
+                TimeSpan duracaoEstacionamento = veiculo.DataSaida - veiculo.DataEntrada;
+                decimal valorTotal = precoInicial + precoPorHora * (decimal)duracaoEstacionamento.TotalHours;
 
                 Console.WriteLine($"O veículo {placa} foi removido e o preço total foi de: R$ {valorTotal}");
             }
@@ -92,7 +95,7 @@ namespace DesafioFundamentos.Models
                 int index = 1;
                 foreach (var veiculo in veiculos)
                 {
-                    Console.WriteLine($"{index}. {veiculo}");
+                    Console.WriteLine($"{index}. {veiculo.Placa}");
                     index++;
                 }
 
@@ -101,8 +104,8 @@ namespace DesafioFundamentos.Models
 
                 if (opcao >= 1 && opcao <= veiculos.Count)
                 {
-                    string placa = veiculos[opcao - 1];
-                    RemoverVeiculo(placa);
+                    Veiculo veiculo = veiculos[opcao - 1];
+                    RemoverVeiculo(veiculo.Placa);
                 }
                 else if (opcao == 0)
                 {
@@ -128,7 +131,7 @@ namespace DesafioFundamentos.Models
 
                 foreach (var veiculo in veiculosRemovidos)
                 {
-                    Console.WriteLine(veiculo);
+                    Console.WriteLine($"{veiculo.Placa} - Entrada: {veiculo.DataEntrada}, Saída: {veiculo.DataSaida}");
                 }
             }
             else
@@ -143,10 +146,8 @@ namespace DesafioFundamentos.Models
 
             foreach (var veiculo in veiculosRemovidos)
             {
-                Console.WriteLine("Digite a quantidade de horas que o veículo " + veiculo + " permaneceu estacionado:");
-                int horas = Convert.ToInt32(Console.ReadLine());
-
-                valorTotal += precoInicial + precoPorHora * horas;
+                TimeSpan duracaoEstacionamento = veiculo.DataSaida - veiculo.DataEntrada;
+                valorTotal += precoInicial + precoPorHora * (decimal)duracaoEstacionamento.TotalHours;
             }
 
             return valorTotal;
