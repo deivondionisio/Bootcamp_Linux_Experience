@@ -1,4 +1,6 @@
 ﻿using DesafioFundamentos.Models;
+using System;
+using System.Linq;
 
 // Coloca o encoding para UTF8 para exibir acentuação
 Console.OutputEncoding = System.Text.Encoding.UTF8;
